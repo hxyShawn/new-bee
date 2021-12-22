@@ -1,4 +1,4 @@
-# newbee-shop
+# newbee
 
 ## Project setup
 ```
